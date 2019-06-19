@@ -3,28 +3,22 @@
 var myButton = document.querySelector('button');
 
 function getA() {
-     var valeurDeA = prompt('valeur de a');
-      localStorage.setItem('getA');
-	  (return getA = 11)
+     return 11;
+var getA = document.querySelector('button')
 }
 
 function getB() {
-     var valeurDeB = prompt('valeur de b');
-      localStorage.setItem('getB');
-	  (return getB = 12)
+     return getB = 12
+var getB = document.querySelector('button')
 }
 	  
 function getX() {
-     var valeurDeX = prompt('valeur de x');
-      localStorage.setItem('getX');
-	  (return getX = 'getA*x+getB' )
+     return getX = 13
+var getX = document.querySelector('button')
 }
 	  
 function getCanvas() {
-     var valeurDeCanvas = prompt('valeur de canvas');
-      localStorage.setItem('getCanvas');
-	  (return getX = 200 )
+     return getX = 200
+var getCanvas = document.querySelector('button') 
 }
-	  
-     
-  
+ 
