@@ -4,27 +4,23 @@ var myButton = document.querySelector('button');
 window.alert("");
 
 function getA() {
-     return 11;
-var getA = document.querySelector('button')
-var getA = document.querySelector('window.alert')
+     var getA = document.querySelector('button')
+return 11;
 }
 
 function getB() {
-     return getB = 12
-var getB = document.querySelector('button')
-var getB = document.querySelector('window.alert')
+     var getB = document.querySelector('button')
+return 12;
 }
 	  
 function getX() {
-     return getX = 13
-var getX = document.querySelector('button')
-var getX = document.querySelector('window.alert')
+    var getX = document.querySelector('button')
+ return 13;
 }
 	  
 function getCanvas() {
-     return getX = 200
-var getCanvas = document.querySelector('button')
-var getCanvas = document.querySelector('window.alert')
+    var getCanvas = document.querySelector('button')
+ return 200;
 }
 
 
