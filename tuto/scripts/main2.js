@@ -63,14 +63,25 @@ function effacer() {
 
 function animation(t) {
   console.log(t);
-  let pente = Math.random() > 0.5 ? 1 : -1;
+  let pente = Math.random() > 0.5 ? 1 : 1;
   document.querySelector('#a').value = Math.random() * 1000 * pente;
   document.querySelector('#b').value = Math.random() * 10000;
   doIt();
+ 
   requestAnimationFrame(animation);
 }
 
 requestAnimationFrame(animation);
+
+
+	
+
+
+
+
+
+
+
 
 
  
