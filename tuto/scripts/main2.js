@@ -1,7 +1,7 @@
 // pop up valeur de a, b et x 
 
 var myButton = document.querySelector('button');
-window.alert("");
+window.alert("valeur de a,b,x et la taille du canvas");
 
 function getA() {
      var getA = document.querySelector('button')
